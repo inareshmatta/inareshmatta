@@ -51,7 +51,7 @@
 |---------|-------------|----------|--------|---------|
 | 🌌 **Vyonix Studio** | Multimodal AI data factory | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
 | 📚 **Klassbook AI** | Voice + vision AI tutor | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
-| 🔮 **Finozzo AI** | Voice & habit budget tracker | <img src="https://img.shields.io/badge/iOS-000000?logo=apple&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
+| 🔮 **Finozzo AI** | AI financial coach – tracks expenses, habits & mood, then predicts your next move | <img src="https://img.shields.io/badge/iOS-000000?logo=apple&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
 | 🛒 **AI Hubzy** | Curated AI tools hub | <img src="https://img.shields.io/badge/iOS-000000?logo=apple&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
 | 💎 **iJEMS** | Desktop ERP for jewellery | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
 | 🤖 **Konvagence** | AI Agent Marketplace | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> | 🔨 In Development | — |
@@ -61,18 +61,26 @@
 
 <br />
 
-<!-- 🔮 Highlight: Finozzo AI (moved below projects) -->
+<!-- 🔮 Highlight: Finozzo AI – The AI Financial Coach (moved below projects) -->
 <table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #06B6D4, #8B5CF6) border-box; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
   <tr>
     <td style="background: #0d1117; border-radius: 18px; padding: 24px 30px; color: #c9d1d9;">
       <div align="center">
-        <h2 style="margin: 0 0 10px; color: #06B6D4;">🔮 Finozzo AI</h2>
-        <p style="font-style: italic; color: #8b949e;">Voice & Habit Budget Tracker – The Agentic Financial Intelligence OS</p>
-        <p style="max-width: 600px; margin: 10px auto; font-size: 0.95em;">
-          🎤 Voice‑first expense tracking powered by <b>Gemma 4 Multimodal AI</b>.
-          Shake to add, chat with your AI financial advisor, earn 21 badges, and
-          enjoy 14 beautiful themes. Your data stays 100% on‑device with
-          biometric lock.
+        <!-- Mascot placeholder – replace with your actual image URL -->
+        <img src="https://via.placeholder.com/80?text=Ozzo" width="80" style="border-radius: 50%;" />
+        <h2 style="margin: 10px 0 0; color: #06B6D4;">🔮 Finozzo AI</h2>
+        <p style="font-style: italic; color: #8b949e;">
+          Your AI financial coach — more than a budget app
+        </p>
+        <p style="max-width: 650px; margin: 10px auto; font-size: 0.95em; color: #c9d1d9;">
+          <b>Expense tracking, budget guardrails, habit building, and mood journaling — 
+          all connected by a brain that learns you.</b><br/><br/>
+          Finozzo doesn’t just record what you spent. It <b>correlates your mood, habits, and spending</b> 
+          to uncover hidden patterns. It <b>predicts the best days and weeks for major purchases</b>, 
+          warns you when your mood might lead to impulsive spending, and even calculates your 
+          <b>financial stress index</b> in real time.<br/><br/>
+          Think of it as a <b>financial therapist + AI data scientist</b> living in your pocket. 
+          Voice‑first, privacy‑first, and always one shake away.
         </p>
         <p>
           <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1A1A1A" />
@@ -81,6 +89,10 @@
           <img src="https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A1A" />
           <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1A1A1A" />
           <img src="https://img.shields.io/badge/Lines-23,000+-06B6D4?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1A1A1A" />
+        </p>
+        <p style="font-size: 0.8em; color: #8b949e;">
+          ⚠️ Mascot image is a placeholder. Replace the <code>src</code> with your actual image URL 
+          (e.g., from a public repo or image hosting service) to show your mascot.
         </p>
       </div>
     </td>
