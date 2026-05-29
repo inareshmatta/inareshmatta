@@ -1,132 +1,182 @@
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naresh%20Matta&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Builder%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect%20%7C%20AI%20Product%20Leader&descSize=16&descAlignY=75)
+<!-- Hero Banner with Gradient and Animated Text -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=220&section=header&text=Naresh%20Matta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Builder%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect%20%7C%20AI%20Product%20Leader&descSize=16&descAlignY=75" width="100%"/>
+</div>
 
-<p align="center">
+<!-- Social badges -->
+<div align="center">
   <a href="https://www.youtube.com/@SkillWisor">
-    <img src="https://img.shields.io/badge/YouTube-SkillWisor-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-SkillWisor-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="https://linkedin.com/in/inareshmatta">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=inareshmatta&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=inareshmatta&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=1A1A1A" />
+</div>
+
+<br />
+
+<!-- About Me Card with Glassmorphism -->
+<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <tr>
+    <td style="background: #0d1117; border-radius: 14px; padding: 28px; color: #c9d1d9;">
+      <h2 align="center" style="margin-top: 0;">👨‍💻 About Me</h2>
+      <p style="text-align: center; font-size: 1.1em;">
+        🚀 Building <strong>multimodal AI products</strong> from idea → architecture → working systems<br>
+        🧠 <strong>15+ years</strong> of enterprise AI & data delivery<br>
+        🤖 Deep focus on Agentic AI, RAG, Local LLMs, and AI Data Infrastructure<br>
+        🎙 Creator at <strong>SkillWisor</strong> – AI & career education on YouTube<br>
+        📍 Based in <strong>Bangalore, India</strong><br>
+        🔭 Currently building: <em>Vyonix Studio · Klassbook AI · AI Hubzy · iJEMS · Konvagence · OpenSkela</em><br>
+        🌱 Always learning: MCP · Google ADK · LangGraph · Multimodal AI
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- What I'm Building – Modern Table (no grid lock) -->
+<h2 align="center" style="color: #58a6ff;">🚀 What I'm Building</h2>
+<p align="center" style="color: #8b949e; font-size: 0.9em;">
+  ⚠️ Several repositories are proprietary and pre‑launch. Cloning, copying, or redistributing without written permission is strictly prohibited. © 2026 Naresh Matta — All Rights Reserved.
 </p>
 
----
+| Project | Description | Status | Preview |
+|---------|-------------|--------|---------|
+| 🌌 **Vyonix Studio** | Multimodal AI data factory – raw media → structured training datasets | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
+| 📚 **Klassbook AI** | Voice + vision AI tutor that reads your textbook with you | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
+| 🛒 **AI Hubzy** | Curated AI tools discovery and productivity hub | 🔒 Pre-launch | — |
+| 💎 **iJEMS** | Desktop ERP for jewellery businesses – local-first, AI-powered | 🔒 Pre-launch | — |
+| 🤖 **Konvagence** | AI Agent Marketplace & Agency Platform | 🔨 In Development | — |
+| ⚙️ **OpenSkela** | Open-source TypeScript Agent OS (v6 · 11,500+ lines) | 🔨 In Development | — |
+| 🌠 **Vyom (व्योम)** | Multimodal LLM built from scratch – NumPy/Python, no frameworks | 🔬 Research | — |
+| 🎓 **SkillWisor** | AI education platform + YouTube channel | 🟢 Live | — |
 
-## 👨‍💻 About Me
+<br />
 
-- 🚀 Building **multimodal AI products** from idea → architecture → working systems
-- 🧠 **15+ years** of enterprise AI & data delivery experience
-- 🤖 Deep focus on **Agentic AI, RAG, Local LLMs, and AI Data Infrastructure**
-- 🎙 Creator at **SkillWisor** — AI & career education on YouTube
-- 📍 Based in **Bangalore, India**
-- 🔭 Currently building: **Vyonix Studio · Klassbook AI · AI Hubzy · iJEMS · Konvagence · OpenSkela**
-- 🌱 Always learning: **MCP · Google ADK · LangGraph · Multimodal AI**
+<!-- Product Demos Section with YouTube Thumbnails -->
+<div align="center">
+  <h2 style="color: #58a6ff;">🎬 Product Demos</h2>
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td width="45%" align="center">
+        <a href="https://youtu.be/Ww7WcPQiJ6c">
+          <img src="https://img.youtube.com/vi/Ww7WcPQiJ6c/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Klassbook AI Demo"/>
+          <br/><sub><b>Klassbook AI – Voice & Vision Tutor</b></sub>
+        </a>
+      </td>
+      <td width="5%"></td>
+      <td width="45%" align="center">
+        <a href="https://www.youtube.com/watch?v=9Kq77QZMklU">
+          <img src="https://img.youtube.com/vi/9Kq77QZMklU/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Vyonix Studio Demo"/>
+          <br/><sub><b>Vyonix AI Data Factory – Multimodal Processing</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br />
 
-## 🚀 What I'm Building
+<!-- Tech Stack -->
+<div align="center">
+  <h2 style="color: #58a6ff;">🛠️ Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1A1A1A"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/MCP%20Protocol-6C3483?style=for-the-badge&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&labelColor=1A1A1A"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1A1A1A"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1A1A1A"/>
+  </p>
+</div>
 
-> ⚠️ **Several repositories are proprietary and pre-launch.**
-> Cloning, copying, or redistributing without written permission is strictly prohibited.
-> © 2026 Naresh Matta — All Rights Reserved.
+<br />
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🌌 **Vyonix Studio** | Multimodal AI data factory — raw media → structured training datasets | 🔒 Pre-launch |
-| 📚 **Klassbook AI** | Voice + vision AI tutor that reads your textbook with you | 🔒 Pre-launch |
-| 🛒 **AI Hubzy** | Curated AI tools discovery and productivity hub | 🔒 Pre-launch |
-| 💎 **iJEMS** | Desktop ERP for jewellery businesses — local-first, AI-powered | 🔒 Pre-launch |
-| 🤖 **Konvagence** | AI Agent Marketplace & Agency Platform | 🔨 In Development |
-| ⚙️ **OpenSkela** | Open-source TypeScript Agent OS (v6 · 11,500+ lines) | 🔨 In Development |
-| 🌠 **Vyom (व्योम)** | Multimodal LLM built from scratch — NumPy/Python, no frameworks | 🔬 Research |
-| 🎓 **SkillWisor** | AI education platform + YouTube channel | 🟢 Live |
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inareshmatta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inareshmatta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inareshmatta&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF4500&currStreakLabel=58A6FF" width="60%" />
+</div>
 
----
+<br />
 
-## 🛠️ Tech Stack
+<!-- Contribution Calendar (reliable) -->
+<div align="center">
+  <h2 style="color: #58a6ff;">📅 Contribution Calendar</h2>
+  <img src="https://ghchart.rshah.org/inareshmatta" alt="Contribution Calendar" width="95%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+</div>
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<br />
 
-### 🧠 GenAI & Agentic
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20Protocol-6C3483?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00897B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2 style="color: #58a6ff;">🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=inareshmatta&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
-### 💻 Frontend & Apps
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br />
 
-### ⚙️ Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+<!-- Mission Quote with Glassmorphism -->
+<div align="center">
+  <table style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
+    <tr>
+      <td align="center">
+        <h3 style="color: #c9d1d9;">🎯 Mission</h3>
+        <p style="color: #8b949e; max-width: 600px;">
+          Build AI systems that are practical, intelligent, and usable in real‑world products – while helping professionals leverage modern AI for innovation and growth.
+        </p>
+        <p style="color: #58a6ff; font-style: italic;">
+          "Building the future of AI — one agent at a time."
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📊 GitHub Stats
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inareshmatta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inareshmatta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inareshmatta&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inareshmatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inareshmatta&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/inareshmatta/inareshmatta/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎯 Mission
-
-> *Build AI systems that are practical, intelligent, and usable in real-world products — while helping professionals leverage modern AI for innovation and growth.*
-
----
-
-<p align="center">
-  ⭐ <b>If you find my work useful, consider starring a repository</b>
-  <br/><br/>
-  <i>"Building the future of AI — one agent at a time."</i>
-</p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+</div>
