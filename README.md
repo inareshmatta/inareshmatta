@@ -16,38 +16,6 @@
 
 <br />
 
-<!-- 🔮 Featured Product: Finozzo AI -->
-<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-  <tr>
-    <td style="background: #0d1117; border-radius: 18px; padding: 24px 30px; color: #c9d1d9;">
-      <div align="center">
-        <img src="./assets/images/mascot.png" alt="Finozzo Mascot" width="80" />
-        <h2 style="margin: 10px 0 0; color: #58a6ff;">🔮 Finozzo AI</h2>
-        <p style="font-style: italic; color: #8b949e;">Voice & Habit Budget Tracker – The Agentic Financial Intelligence OS</p>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1A1A1A" />
-          <img src="https://img.shields.io/badge/Expo_SDK_54-1B1F23?style=flat-square&logo=expo&logoColor=white&labelColor=1A1A1A" />
-          <img src="https://img.shields.io/badge/Gemma_4-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1A1A1A" />
-          <img src="https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A1A" />
-          <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1A1A1A" />
-          <img src="https://img.shields.io/badge/Lines-23,000+-06B6D4?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1A1A1A" />
-        </p>
-        <p style="max-width: 600px; margin: auto; font-size: 0.95em;">
-          🎤 Voice‑first expense tracking powered by <b>Gemma 4 Multimodal AI</b>.
-          Shake to add, chat with your AI financial advisor, earn 21 badges, and
-          enjoy 14 beautiful themes. Your data stays 100% on‑device with
-          biometric lock.
-        </p>
-        <a href="https://github.com/inareshmatta/Finozzo">
-          <img src="https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <!-- About Me Card -->
 <table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
   <tr>
@@ -73,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- What I'm Building – Table with Platform Column -->
+<!-- What I'm Building – Table with Platform Badges -->
 <h2 align="center" style="color: #58a6ff;">🚀 What I'm Building</h2>
 <p align="center" style="color: #8b949e; font-size: 0.9em;">
   ⚠️ Several repositories are proprietary and pre‑launch. Cloning, copying, or redistributing without written permission is strictly prohibited. © 2026 Naresh Matta — All Rights Reserved.
@@ -81,15 +49,43 @@
 
 | Project | Description | Platform | Status | Preview |
 |---------|-------------|----------|--------|---------|
-| 🌌 **Vyonix Studio** | Multimodal AI data factory | 🌐 Web · 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
-| 📚 **Klassbook AI** | Voice + vision AI tutor | 🌐 Web · 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
-| 🔮 **Finozzo AI** | Voice & habit budget tracker | 🍏 iOS · 🤖 Android | 🔒 Pre-launch | [![Repo](https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=1A1A1A)](https://github.com/inareshmatta/Finozzo) |
-| 🛒 **AI Hubzy** | Curated AI tools hub | 🍏 iOS · 🤖 Android | 🔒 Pre-launch | — |
-| 💎 **iJEMS** | Desktop ERP for jewellery | 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | — |
-| 🤖 **Konvagence** | AI Agent Marketplace | 🌐 Web | 🔨 In Development | — |
-| ⚙️ **OpenSkela** | TypeScript Agent OS (11,500+ lines) | 🟢 Node.js · Cross‑platform | 🔨 In Development | — |
-| 🌠 **Vyom (व्योम)** | Multimodal LLM from scratch | 🐍 Python · 📓 Jupyter | 🔬 Research | — |
-| 🎓 **SkillWisor** | AI education platform | 🌐 Web · ▶️ YouTube | 🟢 Live | — |
+| 🌌 **Vyonix Studio** | Multimodal AI data factory | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
+| 📚 **Klassbook AI** | Voice + vision AI tutor | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
+| 🔮 **Finozzo AI** | Voice & habit budget tracker | <img src="https://img.shields.io/badge/iOS-000000?logo=apple&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
+| 🛒 **AI Hubzy** | Curated AI tools hub | <img src="https://img.shields.io/badge/iOS-000000?logo=apple&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
+| 💎 **iJEMS** | Desktop ERP for jewellery | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&style=flat-square" height="20"/> | 🔒 Pre-launch | — |
+| 🤖 **Konvagence** | AI Agent Marketplace | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> | 🔨 In Development | — |
+| ⚙️ **OpenSkela** | TypeScript Agent OS (11,500+ lines) | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Cross--Platform-000?logo=electron&style=flat-square" height="20"/> | 🔨 In Development | — |
+| 🌠 **Vyom (व्योम)** | Multimodal LLM from scratch | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&style=flat-square" height="20"/> | 🔬 Research | — |
+| 🎓 **SkillWisor** | AI education platform | <img src="https://img.shields.io/badge/Web-4285F4?logo=google-chrome&style=flat-square" height="20"/> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=flat-square" height="20"/> | 🟢 Live | — |
+
+<br />
+
+<!-- 🔮 Highlight: Finozzo AI (moved below projects) -->
+<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #06B6D4, #8B5CF6) border-box; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <tr>
+    <td style="background: #0d1117; border-radius: 18px; padding: 24px 30px; color: #c9d1d9;">
+      <div align="center">
+        <h2 style="margin: 0 0 10px; color: #06B6D4;">🔮 Finozzo AI</h2>
+        <p style="font-style: italic; color: #8b949e;">Voice & Habit Budget Tracker – The Agentic Financial Intelligence OS</p>
+        <p style="max-width: 600px; margin: 10px auto; font-size: 0.95em;">
+          🎤 Voice‑first expense tracking powered by <b>Gemma 4 Multimodal AI</b>.
+          Shake to add, chat with your AI financial advisor, earn 21 badges, and
+          enjoy 14 beautiful themes. Your data stays 100% on‑device with
+          biometric lock.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Expo_SDK_54-1B1F23?style=flat-square&logo=expo&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Gemma_4-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Lines-23,000+-06B6D4?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1A1A1A" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -117,43 +113,53 @@
 
 <br />
 
-<!-- Tech Stack -->
+<!-- Tech Stack (Organized) -->
 <div align="center">
   <h2 style="color: #58a6ff;">🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1A1A1A"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/MCP%20Protocol-6C3483?style=for-the-badge&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&labelColor=1A1A1A"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1A1A1A"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1A1A1A"/>
-  </p>
 </div>
+
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1A1A1A"/>
+</p>
+
+### 🧠 GenAI & Agentic
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/MCP%20Protocol-6C3483?style=for-the-badge&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&labelColor=1A1A1A"/>
+</p>
+
+### 💻 Frontend & Apps
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1A1A1A"/>
+</p>
+
+### ⚙️ Backend & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1A1A1A"/>
+</p>
 
 <br />
 
