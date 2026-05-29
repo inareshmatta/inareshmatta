@@ -1,4 +1,4 @@
-<!-- Hero Banner with Gradient and Animated Text -->
+<!-- Hero Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=220&section=header&text=Naresh%20Matta&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Builder%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architect%20%7C%20AI%20Product%20Leader&descSize=16&descAlignY=75" width="100%"/>
 </div>
@@ -16,7 +16,39 @@
 
 <br />
 
-<!-- About Me Card with Glassmorphism -->
+<!-- 🔮 Featured Product: Finozzo AI -->
+<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  <tr>
+    <td style="background: #0d1117; border-radius: 18px; padding: 24px 30px; color: #c9d1d9;">
+      <div align="center">
+        <img src="./assets/images/mascot.png" alt="Finozzo Mascot" width="80" />
+        <h2 style="margin: 10px 0 0; color: #58a6ff;">🔮 Finozzo AI</h2>
+        <p style="font-style: italic; color: #8b949e;">Voice & Habit Budget Tracker – The Agentic Financial Intelligence OS</p>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Expo_SDK_54-1B1F23?style=flat-square&logo=expo&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Gemma_4-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/OpenRouter-1A1A1A?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1A1A1A" />
+          <img src="https://img.shields.io/badge/Lines-23,000+-06B6D4?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1A1A1A" />
+        </p>
+        <p style="max-width: 600px; margin: auto; font-size: 0.95em;">
+          🎤 Voice‑first expense tracking powered by <b>Gemma 4 Multimodal AI</b>.
+          Shake to add, chat with your AI financial advisor, earn 21 badges, and
+          enjoy 14 beautiful themes. Your data stays 100% on‑device with
+          biometric lock.
+        </p>
+        <a href="https://github.com/inareshmatta/Finozzo">
+          <img src="https://img.shields.io/badge/View_Repository-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- About Me Card -->
 <table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) border-box; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
   <tr>
     <td style="background: #0d1117; border-radius: 14px; padding: 28px; color: #c9d1d9;">
@@ -41,40 +73,41 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- What I'm Building – Modern Table (no grid lock) -->
+<!-- What I'm Building – Table with Platform Column -->
 <h2 align="center" style="color: #58a6ff;">🚀 What I'm Building</h2>
 <p align="center" style="color: #8b949e; font-size: 0.9em;">
   ⚠️ Several repositories are proprietary and pre‑launch. Cloning, copying, or redistributing without written permission is strictly prohibited. © 2026 Naresh Matta — All Rights Reserved.
 </p>
 
-| Project | Description | Status | Preview |
-|---------|-------------|--------|---------|
-| 🌌 **Vyonix Studio** | Multimodal AI data factory – raw media → structured training datasets | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
-| 📚 **Klassbook AI** | Voice + vision AI tutor that reads your textbook with you | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
-| 🛒 **AI Hubzy** | Curated AI tools discovery and productivity hub | 🔒 Pre-launch | — |
-| 💎 **iJEMS** | Desktop ERP for jewellery businesses – local-first, AI-powered | 🔒 Pre-launch | — |
-| 🤖 **Konvagence** | AI Agent Marketplace & Agency Platform | 🔨 In Development | — |
-| ⚙️ **OpenSkela** | Open-source TypeScript Agent OS (v6 · 11,500+ lines) | 🔨 In Development | — |
-| 🌠 **Vyom (व्योम)** | Multimodal LLM built from scratch – NumPy/Python, no frameworks | 🔬 Research | — |
-| 🎓 **SkillWisor** | AI education platform + YouTube channel | 🟢 Live | — |
+| Project | Description | Platform | Status | Preview |
+|---------|-------------|----------|--------|---------|
+| 🌌 **Vyonix Studio** | Multimodal AI data factory | 🌐 Web · 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://www.youtube.com/watch?v=9Kq77QZMklU) |
+| 📚 **Klassbook AI** | Voice + vision AI tutor | 🌐 Web · 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | [![Preview](https://img.shields.io/badge/🎬_Preview-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://youtu.be/Ww7WcPQiJ6c) |
+| 🔮 **Finozzo AI** | Voice & habit budget tracker | 🍏 iOS · 🤖 Android | 🔒 Pre-launch | [![Repo](https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=1A1A1A)](https://github.com/inareshmatta/Finozzo) |
+| 🛒 **AI Hubzy** | Curated AI tools hub | 🍏 iOS · 🤖 Android | 🔒 Pre-launch | — |
+| 💎 **iJEMS** | Desktop ERP for jewellery | 🪟 Windows · 🍎 macOS | 🔒 Pre-launch | — |
+| 🤖 **Konvagence** | AI Agent Marketplace | 🌐 Web | 🔨 In Development | — |
+| ⚙️ **OpenSkela** | TypeScript Agent OS (11,500+ lines) | 🟢 Node.js · Cross‑platform | 🔨 In Development | — |
+| 🌠 **Vyom (व्योम)** | Multimodal LLM from scratch | 🐍 Python · 📓 Jupyter | 🔬 Research | — |
+| 🎓 **SkillWisor** | AI education platform | 🌐 Web · ▶️ YouTube | 🟢 Live | — |
 
 <br />
 
-<!-- Product Demos Section with YouTube Thumbnails -->
+<!-- Product Demos Section with YouTube Thumbnails (cache-busted) -->
 <div align="center">
   <h2 style="color: #58a6ff;">🎬 Product Demos</h2>
   <table style="border-collapse: collapse;">
     <tr>
       <td width="45%" align="center">
         <a href="https://youtu.be/Ww7WcPQiJ6c">
-          <img src="https://img.youtube.com/vi/Ww7WcPQiJ6c/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Klassbook AI Demo"/>
+          <img src="https://img.youtube.com/vi/Ww7WcPQiJ6c/maxresdefault.jpg?v=2" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Klassbook AI Demo"/>
           <br/><sub><b>Klassbook AI – Voice & Vision Tutor</b></sub>
         </a>
       </td>
       <td width="5%"></td>
       <td width="45%" align="center">
         <a href="https://www.youtube.com/watch?v=9Kq77QZMklU">
-          <img src="https://img.youtube.com/vi/9Kq77QZMklU/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Vyonix Studio Demo"/>
+          <img src="https://img.youtube.com/vi/9Kq77QZMklU/maxresdefault.jpg?v=2" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Vyonix Studio Demo"/>
           <br/><sub><b>Vyonix AI Data Factory – Multimodal Processing</b></sub>
         </a>
       </td>
@@ -136,7 +169,7 @@
 
 <br />
 
-<!-- Contribution Calendar (reliable) -->
+<!-- Contribution Calendar -->
 <div align="center">
   <h2 style="color: #58a6ff;">📅 Contribution Calendar</h2>
   <img src="https://ghchart.rshah.org/inareshmatta" alt="Contribution Calendar" width="95%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
@@ -157,7 +190,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Mission Quote with Glassmorphism -->
+<!-- Mission Quote -->
 <div align="center">
   <table style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
     <tr>
